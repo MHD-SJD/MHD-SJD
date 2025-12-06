@@ -17,7 +17,7 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MHD-SJD&show_icons=true&theme=merko&hide_border=true&count_private=true&cache_seconds=86400" alt="MHD-SJD's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MHD-SJD&show_icons=true&theme=merko&hide_border=true&count_private=true&cache_seconds=86400" alt="MHD-SJD's GitHub Stats" width="49%"/>
   <img src="https://streak-stats.demolab.com/?user=MHD-SJD&theme=merko&hide_border=true&cache_seconds=86400" alt="MHD-SJD's GitHub Streak" width="49%" />
 </p>
 <p align="center">
@@ -46,7 +46,7 @@
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedSajjad2007&layout=compact&theme=merko&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHD-SJD&layout=compact&theme=merko&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ## 🔗 Connect with Me
