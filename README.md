@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Mohamed Sajjad</h1>
 <h3 align="center">Software Engineer & AI/ML Engineer</h3>
 
-<img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="Banner" width="100%" />
+<img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/api-c99e353f761d318322c853c03ebcf21b.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I'm currently learning Software Engineer & AI/ML Engineer
@@ -11,7 +11,7 @@
 - AI/ML Engineer
 - Software Engineer
 
-<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Banner" width="30%" align="right" />
+<img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Banner" width="40%" align="right" />
 
 - 📫 How to reach me **sajjadmhd2007@gmail.com**
 
@@ -114,6 +114,8 @@ graph TB
 
 <br>
 
+<img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/original-05ae9901c548d03cacb005e70b7d8958.gif" alt="Banner" width="60%" align="center"/>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MHD-SJD&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)-
 <p align="center">
@@ -121,12 +123,13 @@ graph TB
 </p>
 
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
+
+<img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/Designer-44.png" alt="Banner" width="80%" align="center"/>
 
  <p align="Center">-----------------------------------------Stay Tune----------------------------------------</p>
 
