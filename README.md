@@ -119,9 +119,12 @@ graph TB
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MHD-SJD&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)-
+
+![](https://github-contributor-stats.vercel.app/api?username=MHD-SJD&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 <p align="center">
+    
   <img height="280em" align-item: center src="https://github-readme-activity-graph.vercel.app/graph?username=MHD-SJD&theme=merko&radius=10" alt="MHD-SJD's Activity Graph" />
+    
 </p>
 
 
@@ -130,6 +133,8 @@ graph TB
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
+
+
 <div align="center">
     <img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/Designer-44.png" alt="Banner" width="80%" />
 </div>
