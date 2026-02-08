@@ -113,8 +113,10 @@ graph TB
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
+<div align="center">
+    <img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/original-05ae9901c548d03cacb005e70b7d8958.gif" alt="Banner" width="60%" />
+</div>
 
-<img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/original-05ae9901c548d03cacb005e70b7d8958.gif" alt="Banner" width="60%" align="center"/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MHD-SJD&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)-
@@ -128,8 +130,10 @@ graph TB
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
+<div align="center">
+    <img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/Designer-44.png" alt="Banner" width="80%" />
+</div>
 
-<img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/Designer-44.png" alt="Banner" width="80%" align="center"/>
 
  <p align="Center">-----------------------------------------Stay Tune----------------------------------------</p>
 
