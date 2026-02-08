@@ -135,11 +135,6 @@ graph TB
 </picture>
 
 
-<div align="center">
-    <img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/Designer-44.png" alt="Banner" width="80%" />
-</div>
-
-
  <p align="Center">-----------------------------------------Stay Tune----------------------------------------</p>
 
 <div align="center">
