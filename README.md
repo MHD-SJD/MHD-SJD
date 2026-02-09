@@ -113,9 +113,7 @@ graph TB
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
-<div align="center">
-    <img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/original-05ae9901c548d03cacb005e70b7d8958.gif" alt="Banner" width="60%" />
-</div>
+
 
 
 ### 🔝 Top Contributed Repo
@@ -135,8 +133,14 @@ graph TB
 </picture>
 
 
- <p align="Center">-----------------------------------------Stay Tune----------------------------------------</p>
+<p align="Center">-----------------------------------------Stay Tune----------------------------------------</p>
 
+ <img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/aaaa.gif" alt="Banner" width="20%" align="left" />
+
+ 
+ <img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/aaaa.gif" alt="Banner" width="20%" align="right" />
+
+ 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
