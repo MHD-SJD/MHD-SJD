@@ -123,7 +123,7 @@ graph TB
 
 ### 🔝 Top Contributed Repo
 
-<img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif" width="50%" align="right">
+<img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif" width="40%" align="right">
 
 ![](https://github-contributor-stats.vercel.app/api?username=MHD-SJD&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 <p align="center">
