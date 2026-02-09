@@ -83,9 +83,9 @@ graph TB
     B --> B2[AI / ML Engineering]
     
     
-    C --> C1[Web Applications]
+    C --> C1[AI / ML]
     C --> C2[UI/UX Projects]
-    C --> C3[Full Stack Solutions]
+    C --> C3[Full Stack]
     
     D --> D1[Open Source Contributions]
     D --> D2[Freelance Projects]
