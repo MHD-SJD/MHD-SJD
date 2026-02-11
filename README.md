@@ -114,6 +114,8 @@ graph TB
 | 🤖 AI / ML Engineering | 🟢 Ongoing | ⭐⭐⭐⭐ |
 | 🎨 Advanced UI/UX | 🟢 Ongoing | ⭐⭐⭐⭐⭐ |
 
+<img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif" width="40%" align="right">
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -124,7 +126,7 @@ graph TB
 
 ### 🔝 Top Contributed Repo
 
-<img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif" width="40%" align="right">
+
 
 ![](https://github-contributor-stats.vercel.app/api?username=MHD-SJD&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 <p align="center">
