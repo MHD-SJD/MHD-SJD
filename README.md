@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=MOHAMED%20SAJJAD&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MOHAMED%20SAJJAD&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Software%20Engineer%20|%20Creative%20Coder%20&descSize=18&descAlignY=55" width="100%"/>
+</div>
 
-<h3 align="center">Software Engineer & AI/ML Engineer</h3>
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+  
 
 
 <img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/api-c99e353f761d318322c853c03ebcf21b.gif" alt="Banner" width="100%" />
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 ## 📌 About Me
 - I'm currently learning Software Engineer & AI/ML Engineer
 
