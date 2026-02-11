@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Mohamed%20Sajjad&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=MOHAMED%20SAJJAD&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false" width="100%"/>
+
 <h3 align="center">Software Engineer & AI/ML Engineer</h3>
 
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
