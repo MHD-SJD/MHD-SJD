@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MOHAMED%20SAJJAD&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Software%20Engineer%20|%20Creative%20Coder%20&descSize=18&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MOHAMED%20SAJJAD&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20|%20AI/ML%20Engineer%20|%20Backend%20Developer%20|%20Creative%20Coder%20|%20Programer%20&descSize=18&descAlignY=55" width="100%"/>
 </div>
 
 <img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/api-c99e353f761d318322c853c03ebcf21b.gif" alt="Banner" width="100%" />
