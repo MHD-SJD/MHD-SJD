@@ -105,9 +105,9 @@ graph TB
 
 | Area | Status | Priority |
 |------|--------|----------|
-| 🚀 Full-Stack | 🟢 In Progress | ⭐⭐⭐⭐⭐ |
+| 🛠 Backend-Development | 🟢 In Progress | ⭐⭐⭐⭐⭐ |
 | 🤖 AI / ML Engineering | 🟢 Ongoing | ⭐⭐⭐⭐ |
-| 🎨 Advanced UI/UX | 🟢 Ongoing | ⭐⭐⭐⭐⭐ |
+| 🧠 SFT Engineering | 🟢 Ongoing | ⭐⭐⭐⭐⭐ |
 
 <img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif" width="40%" align="right">
 
