@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MOHAMED%20SAJJAD&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20|%20AI/ML%20Engineer%20|%20Backend%20Developer%20|%20Creative%20Coder%20|%20Programer%20&descSize=18&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MOHAMED%20SAJJAD&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20|%20AI%20Engineer%20|%20Backend%20Developer%20|%20Data%20Engineer%20|%20Creative%20Coder%20&descSize=18&descAlignY=55" width="100%"/>
 </div>
 
 <img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/api-c99e353f761d318322c853c03ebcf21b.gif" alt="Banner" width="100%" />
@@ -9,8 +9,9 @@
 
 
 ## 🧠 My Focus Areas
-- AI/ML Engineer
+- AI Engineer
 - Software Engineer
+- Data Engineer
 -  📫 How to reach me **sajjadmhd2007@gmail.com**
 <div align="right">
   <img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Banner" width="30%" />
@@ -75,10 +76,11 @@ graph TB
     A --> D[🚀 Goals]
     
     B --> B1[BSc Software Engineering]
-    B --> B2[AI / ML Engineering]
+    B --> B2[AI Engineering]
+    B --> B3[Data Engineering]
     
     
-    C --> C1[AI / ML]
+    C --> C1[AI ]
     C --> C2[UI/UX Projects]
     C --> C3[Full Stack]
     
@@ -105,8 +107,8 @@ graph TB
 
 | Area | Status | Priority |
 |------|--------|----------|
-| 🛠 Backend-Development | 🟢 In Progress | ⭐⭐⭐⭐⭐ |
-| 🤖 AI / ML Engineering | 🟢 Ongoing | ⭐⭐⭐⭐ |
+| 🛠 Data Engineer | 🟢 Ongoing | ⭐⭐⭐⭐ |
+| 🤖 AI Engineering | 🟢 Ongoing | ⭐⭐⭐⭐ |
 | 🧠 SFT Engineering | 🟢 Ongoing | ⭐⭐⭐⭐⭐ |
 
 <img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif" width="40%" align="right">
