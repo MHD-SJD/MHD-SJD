@@ -1,67 +1,39 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MOHAMED%20SAJJAD&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20|%20AI%20Engineer%20|%20Backend%20Developer%20|%20Data%20Engineer%20|%20Creative%20Coder%20&descSize=18&descAlignY=55" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=MOHAMED%20SAJJAD&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Data%20Engineer%20%7C%20Software%20Engineer%20%7C%20Backend%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/api-c99e353f761d318322c853c03ebcf21b.gif" alt="Banner" width="100%" />
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-## 📌 About Me
-- I'm currently learning Software Engineer & AI/ML Engineer
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=MHD-SJD">
+    <img src="https://komarev.com/ghpvc/?username=MHD-SJD&label=Profile%20views&color=00FFFF&style=flat-square" alt="MHD-SJD's profile views" />
+  </a>
+</p>
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-## 🧠 My Focus Areas
-- AI Engineer
-- Software Engineer
-- Data Engineer
--  📫 How to reach me **sajjadmhd2007@gmail.com**
-<div align="right">
-  <img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Banner" width="30%" />
-</div>
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/MHD-SJD">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MHD-SJD&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="MHD-SJD's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=MHD-SJD&theme=radical&hide_border=true&cache_seconds=86400" alt="MHD-SJD's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=MHD-SJD&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="MOHAMED SAJJAD's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=MHD-SJD&theme=radical&radius=10" alt="MHD-SJD's Activity Graph" />
+</p>
 
 
 ## 🛠️ Languages & Tools
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" />
 <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="48" height="48" style="margin: 4px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" />
 </p>
+<br>
+| Area | Status | Priority |
+|------|--------|----------|
+| 🛠 Data Engineer | 🟢 Ongoing | ⭐⭐⭐⭐ |
+| 🚀  Backend Engineering | 🟢 Ongoing | ⭐⭐⭐⭐⭐|
+| 🧠 SFT Engineering | 🟢 Ongoing | ⭐⭐⭐⭐⭐ |
 
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
-
-## 🏆 GitHub Trophies & Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MHD-SJD&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,MultiLanguage" width="100%" alt="GitHub Trophies"/>
-
-### 🎯 **Achievement Badges**
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHD-SJD&theme=radical" width="98%" alt="Profile Summary"/>
-
-<table width="100%" style="border: none;">
-<tr>
-<td width="50%" style="border: none;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MHD-SJD&theme=radical" alt="Repos per Language" width="100%"/>
-</td>
-<td width="50%" style="border: none;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MHD-SJD&theme=radical" alt="Most Commit Language" width="100%"/>
-</td>
-</tr>
-<tr>
-<td width="50%" style="border: none;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MHD-SJD&theme=radical" alt="Stats" width="100%"/>
-</td>
-<td width="50%" style="border: none;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MHD-SJD&theme=radical&utcOffset=5.5" alt="Productive Time" width="100%"/>
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
 <br>
 
 ## 💼 What I'm Working On
@@ -76,13 +48,13 @@ graph TB
     A --> D[🚀 Goals]
     
     B --> B1[BSc Software Engineering]
-    B --> B2[AI Engineering]
+    B --> B2[Backend Engineering]
     B --> B3[Data Engineering]
     
     
-    C --> C1[AI ]
-    C --> C2[UI/UX Projects]
-    C --> C3[Full Stack]
+    C --> C1[AI]
+    C --> C2[Pipelines]
+    C --> C3[Backend System]
     
     D --> D1[Open Source Contributions]
     D --> D2[Freelance Projects]
@@ -98,49 +70,6 @@ graph TB
 
 <br>
 
-<div align="center">
-
-
- <p align="center">🎯 Current Focus Areas</p>
-
-<img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/0_rOIc88HfNzBtAhru.gif" width="30%" align="left">
-
-| Area | Status | Priority |
-|------|--------|----------|
-| 🛠 Data Engineer | 🟢 Ongoing | ⭐⭐⭐⭐ |
-| 🤖 AI Engineering | 🟢 Ongoing | ⭐⭐⭐⭐ |
-| 🧠 SFT Engineering | 🟢 Ongoing | ⭐⭐⭐⭐⭐ |
-
-<img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif" width="40%" align="right">
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
-
-<br>
-
-
-
-### 🔝 Top Contributed Repo
-
-
-
-![](https://github-contributor-stats.vercel.app/api?username=MHD-SJD&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-<p align="center">
-    
-  <img height="280em" align-item: center src="https://github-readme-activity-graph.vercel.app/graph?username=MHD-SJD&theme=merko&radius=10" alt="MHD-SJD's Activity Graph" />
-    
-</p>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mhd-sajjad-161715335" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> 
@@ -150,16 +79,11 @@ graph TB
  
 </p>
 
-<p align="Center">-----------------------------------------Stay Tune----------------------------------------</p>
 
- <img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/aaaa.gif" alt="Banner" width="20%" align="left" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
- 
- <img src="https://github.com/MHD-SJD/MHD-SJD/blob/main/animation/aaaa.gif" alt="Banner" width="20%" align="right" />
-
- 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
-</div>
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
