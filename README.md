@@ -24,9 +24,9 @@
 <br>
 | Area | Status | Priority |<br>
 |------|--------|----------|<br>
-| 🛠 Data Engineer | 🟢 Ongoing | ⭐⭐⭐⭐ |<br>
+| 🛠 Data Engineer | 🟢 Ongoing | ⭐⭐⭐⭐⭐ |<br>
 | 🚀 Backend Engineering | 🟢 Ongoing | ⭐⭐⭐⭐⭐|<br>
-| 🧠 SFT Engineering | 🟢 Ongoing | ⭐⭐⭐⭐⭐ |
+| 🧠 SFT Engineering | 🟢 Ongoing | ⭐⭐⭐⭐ |
 
 <br>
 
