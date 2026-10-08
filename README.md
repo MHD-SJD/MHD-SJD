@@ -25,7 +25,7 @@
 | Area | Status | Priority |<br>
 |------|--------|----------|<br>
 | 🛠 Data Engineer | 🟢 Ongoing | ⭐⭐⭐⭐⭐ |<br>
-| 🚀 Backend Engineering | 🟢 Ongoing | ⭐⭐⭐⭐⭐|<br>
+| 🚀 ML Engineering | 🟢 Ongoing | ⭐⭐⭐⭐|<br>
 | 🧠 SFT Engineering | 🟢 Ongoing | ⭐⭐⭐⭐ |
 
 <br>
@@ -41,14 +41,14 @@ graph TB
     A --> C[💻 Development]
     A --> D[🚀 Goals]
     
-    B --> B1[BSc Software Engineering]
-    B --> B2[Backend Engineering]
+    B --> B1[BSc Computer Science With Data Science]
+    B --> B2[ML Engineering]
     B --> B3[Data Engineering]
     
     
     C --> C1[AI]
     C --> C2[Pipelines]
-    C --> C3[Backend System]
+    C --> C3[Model Training]
     
     D --> D1[Open Source Contributions]
     D --> D2[Freelance Projects]
